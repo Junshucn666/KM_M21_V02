@@ -1,0 +1,66 @@
+D:\我的文档\Visual Studio 2010\Projects\KM_M21\KM_M21\bin\Release\KM_M21.exe
+D:\我的文档\Visual Studio 2010\Projects\KM_M21\KM_M21\bin\Release\KM_M21.pdb
+D:\我的文档\Visual Studio 2010\Projects\KM_M21\KM_M21\obj\x86\Release\KM_M21.KM_M21.resources
+D:\我的文档\Visual Studio 2010\Projects\KM_M21\KM_M21\obj\x86\Release\KM_M21.KM_View.resources
+D:\我的文档\Visual Studio 2010\Projects\KM_M21\KM_M21\obj\x86\Release\KM_M21.Properties.Resources.resources
+D:\我的文档\Visual Studio 2010\Projects\KM_M21\KM_M21\obj\x86\Release\KM_M21.csproj.GenerateResource.Cache
+D:\我的文档\Visual Studio 2010\Projects\KM_M21\KM_M21\obj\x86\Release\KM_M21.exe
+D:\我的文档\Visual Studio 2010\Projects\KM_M21\KM_M21\obj\x86\Release\KM_M21.pdb
+D:\项目归档\小程序\KM_M21\KM_M21\bin\Release\KM_M21.exe.config
+D:\项目归档\小程序\KM_M21\KM_M21\obj\x86\Release\KM_M21.csproj.ResolveComReference.cache
+D:\项目归档\小程序\KM_M21\KM_M21\obj\x86\Release\KM_M21.exe
+D:\项目归档\小程序\KM_M21\KM_M21\obj\x86\Release\KM_M21.pdb
+D:\项目归档\小程序\KM_M21\KM_M21\bin\Release\KM_M21.exe
+D:\项目归档\小程序\KM_M21\KM_M21\bin\Release\KM_M21.pdb
+D:\项目归档\小程序\KM_M21\KM_M21\obj\x86\Release\KM_M21.KM_M21.resources
+D:\项目归档\小程序\KM_M21\KM_M21\obj\x86\Release\KM_M21.KM_View.resources
+D:\项目归档\小程序\KM_M21\KM_M21\obj\x86\Release\KM_M21.Properties.Resources.resources
+D:\项目归档\小程序\KM_M21\KM_M21\obj\x86\Release\KM_M21.csproj.GenerateResource.Cache
+D:\code_svn\SmallTool\KM21\KM_M21_20191121\KM_M21\bin\Release\KM_M21.exe.config
+D:\code_svn\SmallTool\KM21\KM_M21_20191121\KM_M21\obj\x86\Release\KM_M21.csproj.ResolveComReference.cache
+D:\code_svn\SmallTool\KM21\KM_M21_20191121\KM_M21\obj\x86\Release\KM_M21.exe
+D:\code_svn\SmallTool\KM21\KM_M21_20191121\KM_M21\obj\x86\Release\KM_M21.pdb
+D:\code_svn\SmallTool\KM21\KM_M21_20191121\KM_M21\obj\x86\Release\KM_M21.KM_M21.resources
+D:\code_svn\SmallTool\KM21\KM_M21_20191121\KM_M21\obj\x86\Release\KM_M21.KM_View.resources
+D:\code_svn\SmallTool\KM21\KM_M21_20191121\KM_M21\obj\x86\Release\KM_M21.Properties.Resources.resources
+D:\code_svn\SmallTool\KM21\KM_M21_20191121\KM_M21\obj\x86\Release\KM_M21.csproj.GenerateResource.Cache
+D:\code_svn\SmallTool\KM21\KM_M21_20191121\KM_M21\bin\Release\KM_M21.exe
+D:\code_svn\SmallTool\KM21\KM_M21_20191121\KM_M21\bin\Release\KM_M21.pdb
+D:\code_svn\SmallTool\KM21\KM_M21_V01_20191121\KM_M21\bin\Release\KM_M21.exe.config
+D:\code_svn\SmallTool\KM21\KM_M21_V01_20191121\KM_M21\obj\x86\Release\KM_M21.csproj.ResolveComReference.cache
+D:\code_svn\SmallTool\KM21\KM_M21_V01_20191121\KM_M21\obj\x86\Release\KM_M21.exe
+D:\code_svn\SmallTool\KM21\KM_M21_V01_20191121\KM_M21\obj\x86\Release\KM_M21.pdb
+D:\code_svn\SmallTool\KM21\KM_M21_V01_20191121\KM_M21\obj\x86\Release\KM_M21.KM_M21.resources
+D:\code_svn\SmallTool\KM21\KM_M21_V01_20191121\KM_M21\obj\x86\Release\KM_M21.KM_View.resources
+D:\code_svn\SmallTool\KM21\KM_M21_V01_20191121\KM_M21\obj\x86\Release\KM_M21.Properties.Resources.resources
+D:\code_svn\SmallTool\KM21\KM_M21_V01_20191121\KM_M21\obj\x86\Release\KM_M21.csproj.GenerateResource.Cache
+D:\code_svn\SmallTool\KM21\KM_M21_V01_20191121\KM_M21\bin\Release\KM_M21.exe
+D:\code_svn\SmallTool\KM21\KM_M21_V01_20191121\KM_M21\bin\Release\KM_M21.pdb
+D:\code_svn\SmallTool\KM21\KM_M21_V02_20191204\KM_M21\obj\x86\Release\KM_M21.csproj.ResolveComReference.cache
+D:\code_svn\SmallTool\KM21\KM_M21_V02_20191204\KM_M21\obj\x86\Release\KM_M21.KM_M21.resources
+D:\code_svn\SmallTool\KM21\KM_M21_V02_20191204\KM_M21\obj\x86\Release\KM_M21.KM_View.resources
+D:\code_svn\SmallTool\KM21\KM_M21_V02_20191204\KM_M21\obj\x86\Release\KM_M21.Properties.Resources.resources
+D:\code_svn\SmallTool\KM21\KM_M21_V02_20191204\KM_M21\obj\x86\Release\KM_M21.csproj.GenerateResource.Cache
+D:\code_svn\SmallTool\KM21\KM_M21_V02_20191204\KM_M21\bin\Release\KM_M21_V2.0_20191213.exe.config
+D:\code_svn\SmallTool\KM21\KM_M21_V02_20191204\KM_M21\bin\Release\KM_M21_V2.0_20191213.exe
+D:\code_svn\SmallTool\KM21\KM_M21_V02_20191204\KM_M21\bin\Release\KM_M21_V2.0_20191213.pdb
+D:\code_svn\SmallTool\KM21\KM_M21_V02_20191204\KM_M21\obj\x86\Release\KM_M21_V2.0_20191213.exe
+D:\code_svn\SmallTool\KM21\KM_M21_V02_20191204\KM_M21\obj\x86\Release\KM_M21_V2.0_20191213.pdb
+D:\Modem\KM21\KM_M21_V02_20191204\KM_M21\obj\x86\Release\KM_M21.csproj.ResolveComReference.cache
+D:\Modem\KM21\KM_M21_V02_20191204\KM_M21\obj\x86\Release\KM_M21.KM_M21.resources
+D:\Modem\KM21\KM_M21_V02_20191204\KM_M21\obj\x86\Release\KM_M21.KM_View.resources
+D:\Modem\KM21\KM_M21_V02_20191204\KM_M21\obj\x86\Release\KM_M21.Properties.Resources.resources
+D:\Modem\KM21\KM_M21_V02_20191204\KM_M21\obj\x86\Release\KM_M21.csproj.GenerateResource.Cache
+D:\Modem\KM21\KM_M21_V02_20191204\KM_M21\bin\Release\KM_M21_V2.0_20191226.exe.config
+D:\Modem\KM21\KM_M21_V02_20191204\KM_M21\bin\Release\KM_M21_V2.0_20191226.exe
+D:\Modem\KM21\KM_M21_V02_20191204\KM_M21\bin\Release\KM_M21_V2.0_20191226.pdb
+D:\Modem\KM21\KM_M21_V02_20191204\KM_M21\obj\x86\Release\KM_M21_V2.0_20191226.exe
+D:\Modem\KM21\KM_M21_V02_20191204\KM_M21\obj\x86\Release\KM_M21_V2.0_20191226.pdb
+D:\WorkSpace\KM_M21\KM_M21\bin\Release\KM_M21_V2.0_20191226.exe.config
+D:\WorkSpace\KM_M21\KM_M21\obj\x86\Release\KM_M21.csproj.ResolveComReference.cache
+D:\WorkSpace\KM_M21\KM_M21\obj\x86\Release\KM_M21_V2.0_20191226.exe
+D:\WorkSpace\KM_M21\KM_M21\obj\x86\Release\KM_M21_V2.0_20191226.pdb
+D:\WorkSpace\KM_M21_V02\KM_M21\bin\Release\KM_M21_V2.0_20191226.exe.config
+D:\WorkSpace\KM_M21_V02\KM_M21\obj\x86\Release\KM_M21.csproj.ResolveComReference.cache
+D:\WorkSpace\KM_M21_V02\KM_M21\obj\x86\Release\KM_M21_V2.0_20191226.exe
+D:\WorkSpace\KM_M21_V02\KM_M21\obj\x86\Release\KM_M21_V2.0_20191226.pdb
